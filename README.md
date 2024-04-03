@@ -1,6 +1,3 @@
-Hi 👋 My name is Natalia Flerko
-===============================
-
 Junior Node.js Developer
 ------------------------
 
