@@ -4,7 +4,7 @@ I wanna be a Junior Node.js Backend Developer
 ------------------------
 
 I was in mechanical engineering, I’m now pivoting to software engineering by retraining program.
-I'm learning Express.js, Typescript and write JS every day!
+I'm learning Express.js, Typescript and JS.
 
 ### Skills
 
