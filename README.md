@@ -4,7 +4,7 @@ Hi 👋 My name is Natalia Flerko
 Junior Node.js Developer
 ------------------------
 
-I'm a mechanical engineer who decided to switch my career by retraining program.
+I was in mechanical engineering, I’m now pivoting to software engineering by retraining program.
 
 * 🌍  I'm based in The Netherlands
 * 🧠  I'm learning Express.js, Typescript
