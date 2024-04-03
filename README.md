@@ -1,11 +1,10 @@
 Hi there! 
+
 I wanna be a Junior Node.js Developer 
 ------------------------
 
 I was in mechanical engineering, I’m now pivoting to software engineering by retraining program.
-
-*   I'm based in The Netherlands
-*   I'm learning Express.js, Typescript
+I'm learning Express.js, Typescript and write JS every day!
 
 ### Skills
 
