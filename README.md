@@ -1,6 +1,6 @@
-Hi there! 
+### Hi there! 
 
-I wanna be a Junior Node.js Developer 
+I wanna be a Junior Node.js Backend Developer 
 ------------------------
 
 I was in mechanical engineering, I’m now pivoting to software engineering by retraining program.
