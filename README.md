@@ -1,12 +1,11 @@
-Hi 👋 My name is Natalia Flerko
-===============================
-Junior Node.js Developer
+Hi there! 
+I wanna be a Junior Node.js Developer 
 ------------------------
 
 I was in mechanical engineering, I’m now pivoting to software engineering by retraining program.
 
-* 🌍  I'm based in The Netherlands
-* 🧠  I'm learning Express.js, Typescript
+*   I'm based in The Netherlands
+*   I'm learning Express.js, Typescript
 
 ### Skills
 
@@ -20,9 +19,12 @@ I was in mechanical engineering, I’m now pivoting to software engineering by r
 
 <p align="left"> <a href="https://www.github.com/fairwind2k" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/flerkonatalia" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
+<!--
 ### Badges
 
 <a href="https://github.com/fairwind2k" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fairwind2k&langs_count=10&title_color=14b8a6&text_color=ffffff&icon_color=ffffff&bg_color=312e81&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+-->
+
 
 <!--
 **fairwind2k/fairwind2k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
