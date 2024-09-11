@@ -3,7 +3,7 @@
 I wanna be a Backend Developer
 ------------------------
 
-I was in mechanical engineering, but now I’m pivoting to software engineering by retraining program.
+I was a mechanical engineer with a master's degree, but have now switched to software development through a retraining program. 
 I'm learning JavaScript, Node.js and Fastify.
 
 ### Skills
