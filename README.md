@@ -3,8 +3,8 @@
 I wanna be a Backend Developer
 ------------------------
 
-I was in mechanical engineering, I’m now pivoting to software engineering by retraining program.
-I'm learning Express.js, Typescript and JS.
+I was in mechanical engineering, but now I’m pivoting to software engineering by retraining program.
+I'm learning JavaScript, Node.js and Fastify.
 
 ### Skills
 
