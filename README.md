@@ -1,6 +1,6 @@
 ### Hi there! 
 
-I wanna be a Backend Developer
+I am a Backend Developer
 ------------------------
 
 I was a mechanical engineer with a master's degree, but have now switched to software development through a retraining program. 
